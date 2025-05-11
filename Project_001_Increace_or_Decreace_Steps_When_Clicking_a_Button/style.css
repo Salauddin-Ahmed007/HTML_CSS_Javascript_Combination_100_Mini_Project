@@ -1,0 +1,19 @@
+.Container{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+#Count{
+    font-size: 24px;
+}
+Button{
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+/* বাটন যখন ডিজেবল হবে তখন অপাসিটি কমে যাবে এবং কারসারটা লাল টাইপের গোল কালার হবে এটা করার জন্য নিচের ২টা কাজ */
+Button:disabled{        
+    opacity: 0.5;
+    cursor: not-allowed;
+}

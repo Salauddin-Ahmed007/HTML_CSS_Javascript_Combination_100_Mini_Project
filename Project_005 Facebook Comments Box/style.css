@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h2{
+    margin: 10px auto;
+}
+#comment_box{
+    border: 2px solid #8f8282;
+    margin-top: 30px;
+}
+
+#Comments_btn{
+    background-color: rgb(155, 24, 155);
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    border: 0px solid;
+}
+
+#Comments_btn:hover{
+    background-color: rgb(109, 8, 109);
+    cursor: pointer;
+}

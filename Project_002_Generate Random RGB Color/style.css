@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family: arial, sans-serif;
+}
+#colorBox{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+#coppyButton{
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+#coppyButton:hover{
+    background-color: rgb(163, 50, 8);
+    cursor: pointer;
+}
+#colorCode{
+    font-size: 25px;
+}
