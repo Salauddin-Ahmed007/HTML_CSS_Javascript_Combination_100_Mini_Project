@@ -16,22 +16,6 @@ document.getElementById('Comments_btn').addEventListener('click', ()=>{
 
 
 
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
 // ★ First of all: html, css of total work will finish. 
 
 // দৃষ্টি আকর্শনঃ ঘটনার জন্য আলাদা ফাংশন বানিয়ে সম্পূর্ণ প্রজেক্ট কমপ্লিট করার পর যেটা সমস্যা হলোঃ কমেন্ট করলে ব্রাউজারে পূর্বের কমেন্ট মুছে গিয়ে তারপর নতুন কমেন্ট 
